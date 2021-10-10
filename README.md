@@ -11,8 +11,8 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinascim&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinascim&layout=compact&theme=dark")](https://github.com/vinascim/github-readme-stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinascim&theme=dark&show_icons=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinascim&layout=compact&theme=dark")](https://github.com/vinascim/github-readme-stats"/>
 </a>
 
 <div style="display: inline_block"><br>
