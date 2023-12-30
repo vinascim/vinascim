@@ -1,7 +1,6 @@
 ### Olá, eu sou o Victor 👋
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🔭 &nbsp; Em busca de um emprego junior.
 - 🎓 &nbsp; Estudando Engenharia de computação na <a href="http://ftt.com.br/home/">Faculdade de Tecnologia Termomecanica</a>.
 - 🌱 &nbsp; Aprendendo mais sobre HTML, CSS, JavaScript e C#.
 - 📫 &nbsp; Contate-me no email: victor.luis2003@hotmail.com.
